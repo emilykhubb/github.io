@@ -7,6 +7,7 @@ Each folder corresponds to a project (Final Project or Homework 1–6) and inclu
 - **Report (.pdf):** The full report describing the objective, analysis, results, and conclusions.  
 - **R Script (.R):** Reproducible code used to clean data, run analyses, and generate outputs/figures.  
 - **LaTeX Source (.tex):** The technical write-up source used to produce a polished, well-structured report.
+- **Short Description (README.md):** Concise project summary including analysis, methods, and main results.
 
 ---
 

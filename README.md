@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis Using R
 
 This repository contains my Data Analysis coursework, organized into one Final Project and six homework assignments (HW1–HW6).
 

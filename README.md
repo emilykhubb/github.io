@@ -21,7 +21,7 @@ Analyzed credit utilization behavior across 10,000+ customers to identify high-r
 - Created utilization bands by age, income, and credit limit
 - Developed executive-ready dashboards and visualizations
 
-[View Project →]
+[View Excel Projects →](./excel-projects)
 
 ## R & Statistical Analysis Projects
 

@@ -34,7 +34,7 @@ Includes:
 - Dimension reduction and clustering
 - Reproducible reporting using LaTeX
 
-[View All R Projects →]
+[View R Projects →](./r-projects)
 
 ## Connect
 - 📧 Email: your@email.com  

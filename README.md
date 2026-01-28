@@ -49,7 +49,7 @@ Applied statistical and machine learning projects demonstrating analytical depth
 ## About Me
 I recently graduated from Mississippi State University with a Bachelor’s degree in Business Administration and a minor in Statistics. I am actively preparing for an entry-level data analyst role where I can apply statistical reasoning and data-driven insights to real-world business and research problems.
 
-📄 **Resume:** [Download PDF](EHResume.pdf)
+📄 **Resume:** [Download PDF](./assets/EHResume.pdf)
 
 ---
 

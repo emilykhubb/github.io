@@ -1,9 +1,9 @@
 # Emily Hubbard  
-Aspiring Data Analyst | Excel • R • Statistical Modeling
+**Data Analyst | Excel • R • Statistical Modeling**
 
-I am an aspiring data analyst with a strong foundation in statistical analysis and applied data science. My work focuses on transforming complex datasets into clear, actionable insights through rigorous methodology, thoughtful model selection, and effective communication of results.
+I build data-driven insights by combining strong statistical foundations with clear, practical analysis. My work focuses on cleaning complex datasets, selecting appropriate models, and communicating results that support real-world decision-making.
 
-This portfolio includes business-focused Excel analyses and a curated collection of R projects spanning regression, classification, machine learning, and unsupervised learning.
+This portfolio features business-focused Excel analyses and applied R projects spanning regression, classification, machine learning, and unsupervised learning.
 
 ---
 
@@ -47,7 +47,7 @@ Applied statistical and machine learning projects demonstrating analytical depth
 ---
 
 ## About Me
-I am currently a senior at Mississippi State University, graduating in December 2025, majoring in Business Administration with a minor in Statistics. I am actively preparing for an entry-level data analyst role where I can apply statistical reasoning and data-driven insights to real-world business and research problems.
+I recently graduated from Mississippi State University with a Bachelor’s degree in Business Administration and a minor in Statistics. I am actively preparing for an entry-level data analyst role where I can apply statistical reasoning and data-driven insights to real-world business and research problems.
 
 ---
 

@@ -56,3 +56,4 @@ I recently graduated from Mississippi State University with a Bachelor’s degre
 ## Connect
 - 💼 LinkedIn: [www.linkedin.com/in/emilykhubb](https://www.linkedin.com/in/emilykhubb)
 - 📧 Email: emilykhubb@gmail.com
+- 🧠 GitHub: [https://github.com/emilykhubb](https://github.com/emilykhubb)

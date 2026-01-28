@@ -7,19 +7,6 @@ This portfolio includes business-focused Excel analyses and a curated collection
 
 ---
 
-## Core Skills
-- Data cleaning and preparation
-- Exploratory data analysis (EDA)
-- Statistical modeling and inference
-- Machine learning and model comparison
-- Unsupervised learning and clustering
-- Data visualization and reporting
-- Reproducible analysis workflows
-
-**Tools:** Excel, R, LaTeX, GitHub
-
----
-
 ## Featured Projects
 
 ### Excel Projects

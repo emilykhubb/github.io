@@ -49,10 +49,12 @@ Applied statistical and machine learning projects demonstrating analytical depth
 ## About Me
 I recently graduated from Mississippi State University with a Bachelor’s degree in Business Administration and a minor in Statistics. I am actively preparing for an entry-level data analyst role where I can apply statistical reasoning and data-driven insights to real-world business and research problems.
 
+[View Portfolio Website](https://emilykhubb.github.io)
+
 ---
 
 ## Connect
 - 💼 LinkedIn: [www.linkedin.com/in/emilykhubb](https://www.linkedin.com/in/emilykhubb)
 - 📧 Email: emilykhubb@gmail.com
-- 🧠 GitHub: [emilykhubb.github.io/github.io/](https://emilykhubb.github.io/github.io/)
+- 🧠 GitHub: https://github.com/emilykhubb
 

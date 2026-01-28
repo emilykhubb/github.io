@@ -1,59 +1,42 @@
-# Data Analysis Using R
+# Emily Hubbard  
+Aspiring Data Analyst | Excel • R • Statistical Analysis
 
-This repository contains my Data Analysis coursework, organized into one Final Project and six homework assignments (HW1–HW6).
+I’m a data analyst with a strong foundation in statistical analysis and a passion for turning raw data into clear, actionable insights. My work spans Excel-based business analysis and R-based statistical modeling, with a focus on clean methodology and effective communication.
 
-Each folder corresponds to a project (Final Project or Homework 1–6) and includes:
+## Core Skills
+- Data Cleaning & Preparation  
+- Exploratory Data Analysis (EDA)  
+- Statistical Modeling & Inference  
+- Data Visualization & Reporting  
+- Reproducible Analysis  
 
-- **Report (.pdf):** The full report describing the objective, analysis, results, and conclusions.  
-- **R Script (.R):** Reproducible code used to clean data, run analyses, and generate outputs/figures.  
-- **LaTeX Source (.tex):** The technical write-up source used to produce a polished, well-structured report.
-- **Short Description (README.md):** Concise project summary including analysis, methods, and main results.
+**Tools:** Excel, R, LaTeX
 
----
+## Excel Projects
 
-## Direct Links to Reports (PDF)
+### Credit Utilization & Risk Analysis
+Analyzed credit utilization behavior across 10,000+ customers to identify high-risk segments and usage patterns.
 
-- [Final Project](Final%20Project/Final_Project_Data_Analysis.pdf)
-- [HW1](HW1/HW1_Data_Analysis.pdf)
-- [HW2](HW2/HW2_Data_Analysis.pdf)
-- [HW3](HW3/HW3_Data_Analysis.pdf)
-- [HW4](HW4/HW4_Data_Analysis.pdf)
-- [HW5](HW5/HW5_Data_Analysis.pdf)
-- [HW6](HW6/HW6_Data_Analysis.pdf)
+- Built pivot tables and calculated risk flags
+- Created utilization bands by age, income, and credit limit
+- Developed executive-ready dashboards and visualizations
 
-## Repository Structure
+[View Project →]
 
-### Final Project
-- `Final_Project_DA.R`
-- `Final_Project_DA_LaTeX.tex`
-- `Final_Project_Data_Analysis.pdf`
+## R & Statistical Analysis Projects
 
-### HW1
-- `DA.HW1.R`
-- `HW1_DA_LaTeX.tex`
-- `HW1_Data_Analysis.pdf`
+### Data Analysis Using R
+A collection of applied statistical analyses demonstrating data cleaning, modeling, and interpretation in R.
 
-### HW2
-- `DA.HW2.R`
-- `HW2_DA_LaTeX.tex`
-- `HW2_Data_Analysis.pdf`
+Includes:
+- Exploratory data analysis and visualization
+- Regression and classification models
+- Dimension reduction and clustering
+- Reproducible reporting using LaTeX
 
-### HW3
-- `DA.HW3.R`
-- `HW3_DA_LaTeX.tex`
-- `HW3_Data_Analysis.pdf`
+[View All R Projects →]
 
-### HW4
-- `DA.HW4.R`
-- `HW4_DA_LaTeX.tex`
-- `HW4_Data_Analysis.pdf`
-
-### HW5
-- `DA HW 5.Mid.Term.R`
-- `HW5_DA_LaTeX.tex`
-- `HW5_Data_Analysis.pdf`
-
-### HW6
-- `DA.HW6.R`
-- `HW6_DA_LaTeX.tex`
-- `HW6_Data_Analysis.pdf`
+## Connect
+- 📧 Email: your@email.com  
+- 💼 LinkedIn: linkedin.com/in/yourname  
+- 🧠 GitHub: github.com/yourusername  

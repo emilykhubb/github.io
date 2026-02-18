@@ -13,7 +13,7 @@ The final deliverable is an interactive Tableau dashboard designed for everyday 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="750">
+  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="420">
 </p>
 
 ## What’s Included

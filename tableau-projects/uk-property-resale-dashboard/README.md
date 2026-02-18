@@ -11,7 +11,7 @@ The final deliverable is an interactive Tableau dashboard designed for everyday 
 ## Links
 
 - **Tableau Public Dashboard:**  
-  <https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+  <./tableau-projects/uk-property-resale-dashboard/tableau/UK-property-resale-dashboard.twbx>
 
 - **Plain-Language Write-Up (Notion):**  
   <https://historical-crater-ccc.notion.site/Quick-Resales-in-UK-Property-Sales-30a14b513c6d8026876fd5085d2f616e?source=copy_link>

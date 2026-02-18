@@ -22,7 +22,7 @@ Business-oriented analyses emphasizing segmentation, risk assessment, compensati
 
 **Project Performance & Bonus Calculation Tool**  
 Developed a weighted scoring model blending qualitative leadership evaluations with quantitative financial metrics to standardize bonus decisions.  
-[View Bonus Model →](./excel-projects/project-performance-bonus-tool)
+[View Bonus Model →](./excel-projects/project-performance-bonus-calculation-tool)
 
 **Credit Utilization Risk Analysis**  
 Analyzed credit utilization patterns across 10,000+ customer accounts to identify high-risk segments and usage trends. Built pivot tables, engineered risk flags, and created dashboards to support credit decision-making.  

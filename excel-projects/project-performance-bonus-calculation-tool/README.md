@@ -41,7 +41,7 @@ This tab captures project-level inputs and automatically calculates performance 
 - Hours (total labor hours)
 - Profit ($)
 - Target Profit ($)
-- Target Efficiency ($ per hour)
+- Target Efficiency (USD/hour)
 
 ---
 
@@ -51,18 +51,24 @@ All scores are normalized to a 0–1 scale for comparability.
 
 #### Subjective Variable (Sub Var)
 Weighted combination of:
-- Customer Score (if available)
-- Boss Score (average of Q1–Q5, scaled 0–1)
-- Mistake Score (normalized per standard hours)
+- Customer Score (if available; Customer Average converted to 0–1)
+- Boss Score (average of Q1–Q5, converted to 0–1)
+- Mistake Score (based on normalized mistake rate)
 
 #### Objective Variable (Obj Var)
 Weighted combination of:
-- Profit Score (actual vs target, capped at 1)
-- Efficiency Score (actual $/hour vs target, capped at 1)
+- Profit Score (actual profit vs target profit, capped at 1)
+- Efficiency Score (actual profit per hour vs target efficiency, capped at 1)
 
 #### Final Score
+Calculated as a weighted blend of subjective and objective performance:
+
+Final Score = (Sub Var × Sub Var Weight) + (Obj Var × Obj Var Weight)
 
 #### Bonus Calculation
+Bonus is calculated using the maximum allowable bonus and the final score:
+
+Bonus = Final Score × Max Bonus
 
 ---
 
@@ -70,8 +76,9 @@ Weighted combination of:
 
 Mistakes are normalized per a configurable number of hours (default: 50 hours):
 
+Mistake Rate = (Mistakes ÷ Hours) × Normalization Hours
 
-The Mistake Score decreases as mistake rate increases and reaches zero at a configurable maximum threshold.
+The Mistake Score decreases as mistake rate increases and reaches zero at the Admin-defined **Max Mistake Rate (per Normalization Hours)** threshold.
 
 ---
 
@@ -90,7 +97,7 @@ The Admin tab allows leadership to adjust:
 - Normalization Hours
 - Max Mistake Rate (per normalization hours)
 
-All weight groupings must sum to 1.00 to maintain scoring integrity.
+All weight groupings must sum to **1.00** to maintain scoring integrity.
 
 ---
 
@@ -106,7 +113,7 @@ Each project is scored across five structured leadership dimensions:
 | Problem Solving| Adaptability and handling unexpected issues |
 | Professionalism| Ownership, accountability, follow-through |
 
-Scoring Definitions:
+Scoring Definitions:  
 1 – Poor  
 2 – Below Average  
 3 – Meets Expectations  
@@ -117,7 +124,7 @@ Scoring Definitions:
 
 ## What’s Included
 
-- **Redacted Excel Workbook**  
+- **Excel Workbook**  
   Full scoring model with anonymized project and designer data.
 
 - **Data Dictionary**  

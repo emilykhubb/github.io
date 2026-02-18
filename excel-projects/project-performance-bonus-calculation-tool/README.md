@@ -38,7 +38,7 @@ The model separates inputs from calculated outputs and allows leadership to modi
 ---
 
 ## Documentation
-- [Excel Workbook](./)
+- [Excel Workbook](./Bonus_Calculation_Tool.xlsx)
 - [Data Dictionary](./docs/data_dictionary.md)
 - [How to Use](./docs/how_to_use.md)
 - [Boss Evaluation Rubric](./docs/boss_rubric.md)

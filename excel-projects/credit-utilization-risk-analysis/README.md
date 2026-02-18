@@ -8,7 +8,7 @@ The focus of this analysis is not just calculation, but segmentation, interpreta
 
 ---
 
-## Links
+## Direct Links
 
 - **Excel Workbook:**  
   [Download Workbook](./CreditCardCustomerDataset.xlsx)

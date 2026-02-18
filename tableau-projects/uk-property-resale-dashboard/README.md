@@ -2,19 +2,29 @@
 
 ## Overview
 
-Using UK property sales data, this project explores where quick resales are most common and how property values change from first to last recorded sale. Data was cleaned and transformed in R to define resale windows (≤2 and ≤5 years) and compute long-term price change metrics.
+This project analyzes UK property sales data to identify where quick resales are most common and how property values change from first to last recorded sale. Data was cleaned and transformed in R to define resale windows (≤2 and ≤5 years) and compute long-term price change metrics.
 
-The final deliverable is an interactive Tableau dashboard designed for everyday viewers, supported by a plain-language Notion write-up and documented methodology for reproducibility.
+The final deliverable is an interactive Tableau dashboard designed for everyday viewers, supported by a plain-language Notion write-up and documented methodology to ensure clarity and reproducibility.
+
+---
 
 ## Links
-- Tableau Public Dashboard: <https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
-- Plain-language write-up (Notion): <https://historical-crater-ccc.notion.site/Quick-Resales-in-UK-Property-Sales-30a14b513c6d8026876fd5085d2f616e?source=copy_link>
+
+- **Tableau Public Dashboard:**  
+  <https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+
+- **Plain-Language Write-Up (Notion):**  
+  <https://historical-crater-ccc.notion.site/Quick-Resales-in-UK-Property-Sales-30a14b513c6d8026876fd5085d2f616e?source=copy_link>
+
+---
 
 ## Dashboard Preview
 
 <p align="center">
-  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="420">
+  <img src="./screenshots/dashboard-overview.png" alt="Dashboard Overview" width="470">
 </p>
+
+---
 
 ## What’s Included
 
@@ -33,11 +43,17 @@ The final deliverable is an interactive Tableau dashboard designed for everyday 
 - **Dashboard Screenshots**  
   Static previews of the final dashboard for quick viewing within GitHub.
 
+---
+
 ## Key Metrics
+
 - Quick Resale Rate (≤2 years)
 - Quick Resale Rate (≤5 years)
 - First-to-Last Sale % Change
-- Postcode area comparisons (maps + scatter)
+- Postcode area comparisons (maps and scatter plots)
+
+---
 
 ## Tools
+
 R (tidyverse, lubridate), Tableau Public

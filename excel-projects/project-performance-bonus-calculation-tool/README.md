@@ -18,6 +18,34 @@ The model separates inputs from calculated outputs and allows leadership to modi
 
 ---
 
+## What’s Included
+
+- **Excel Workbook**  
+  Full scoring model with anonymized project and designer data.
+
+- **Data Dictionary**  
+  Field-level definitions of all variables, inputs, and calculated outputs.
+
+- **How-To Guide**  
+  Step-by-step instructions for entering project data and interpreting results.
+
+- **Rubric Reference Sheet**  
+  Structured evaluation criteria for consistent leadership scoring.
+
+- **Screenshots**  
+  Preview of scoring logic and final output view.
+
+---
+
+## Documentation
+- [Excel Workbook](./)
+- [Data Dictionary](./docs/data_dictionary.md)
+- [How to Use](./docs/how_to_use.md)
+- [Boss Evaluation Rubric](./docs/boss_rubric.md)
+- [Screenshots](./screenshots/???)
+
+---
+
 ## Model Structure
 
 ### 1️⃣ Projects Tab (Data Entry & Outputs)
@@ -118,26 +146,7 @@ Scoring Definitions:
 2 – Below Average  
 3 – Meets Expectations  
 4 – Above Average  
-5 – Excellent  
-
----
-
-## What’s Included
-
-- **Excel Workbook**  
-  Full scoring model with anonymized project and designer data.
-
-- **Data Dictionary**  
-  Field-level definitions of all variables, inputs, and calculated outputs.
-
-- **How-To Guide**  
-  Step-by-step instructions for entering project data and interpreting results.
-
-- **Rubric Reference Sheet**  
-  Structured evaluation criteria for consistent leadership scoring.
-
-- **Screenshots**  
-  Preview of scoring logic and final output view.
+5 – Excellent
 
 ---
 

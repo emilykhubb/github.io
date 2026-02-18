@@ -8,10 +8,21 @@ Interactive Tableau dashboard analyzing quick resales (≤2 years and ≤5 years
 - Plain-language write-up (Notion): <https://historical-crater-ccc.notion.site/Quick-Resales-in-UK-Property-Sales-30a14b513c6d8026876fd5085d2f616e?source=copy_link>
 
 ## What’s Included
-- R scripts used for cleaning and engineering resale metrics
-- Project documentation (definitions, assumptions)
-- (Optional) sample dataset or schema summary
-- Dashboard screenshots for quick preview
+
+- **Interactive Tableau Dashboard**  
+  Published on Tableau Public with filters and geographic views for exploring resale patterns.
+
+- **Plain-Language Write-Up (Notion)**  
+  Clear, non-technical explanation of the analysis, findings, and implications written for everyday home buyers and sellers.
+
+- **R Data Preparation Scripts**  
+  Scripts used to clean the dataset, engineer resale windows (≤2 and ≤5 years), and compute first-to-last sale price changes.
+
+- **Methodology & Documentation**  
+  Definitions, assumptions, and key metric explanations to ensure transparency and reproducibility.
+
+- **Dashboard Screenshots**  
+  Static previews of the final dashboard for quick viewing within GitHub.
 
 ## Key Metrics
 - Quick Resale Rate (≤2 years)

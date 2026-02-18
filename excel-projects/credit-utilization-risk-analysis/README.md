@@ -11,10 +11,10 @@ The focus of this analysis is not just calculation, but segmentation, interpreta
 ## Links
 
 - **Excel Workbook:**  
-  `Credit_Utilization_Risk_Analysis.xlsx`
+  [Download Workbook](./CreditCardCustomerDataset.xlsx)
 
 - **PDF Report:**  
-  `Credit_Utilization_Risk_Analysis_Report.pdf`
+  [View PDF Report](./Credit_Utilization_and_Risk_Analysis__Excel_Project_.pdf)
 
 ---
 

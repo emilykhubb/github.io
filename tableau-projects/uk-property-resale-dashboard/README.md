@@ -10,9 +10,12 @@ The final deliverable is an interactive Tableau dashboard designed for everyday 
 
 ## Links
 
-- [Tableau Public Dashboard](./tableau/UK-property-resale-dashboard.twbx)
+- **Tableau Public Dashboard:**  
+  [View Interactive Dashboard](https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-- [Plain-Language Write-Up (Notion)]()
+- **Tableau Workbook (.twbx):**  
+  [Download Workbook](./tableau/UK-property-resale-dashboard.twbx)
+
 
 ---
 

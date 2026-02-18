@@ -9,7 +9,7 @@ This portfolio features business-focused Excel analyses, an interactive Tableau 
 
 ## Featured Projects
 
-### 📊 Tableau + R
+### Tableau + R
 
 **UK Property Resales & Price Growth Dashboard**  
 Analyzed quick resales (≤2 and ≤5 years) and long-term price change across UK postcode areas. Cleaned and engineered resale metrics in R and built an interactive Tableau dashboard for non-technical audiences.  
@@ -17,7 +17,7 @@ Analyzed quick resales (≤2 and ≤5 years) and long-term price change across U
 
 ---
 
-### 📈 Excel Projects  
+### Excel Projects  
 Business-oriented analyses emphasizing segmentation, risk assessment, compensation modeling, and executive-ready reporting.
 
 **Project Performance & Bonus Calculation Tool**  
@@ -30,7 +30,7 @@ Analyzed credit utilization patterns across 10,000+ customer accounts to identif
 
 ---
 
-### 📐 R Projects  
+### R Projects  
 Applied statistical and machine learning projects demonstrating analytical depth, methodological rigor, and clear interpretation.
 
 **Religiosity and Lifetime Suicidality in Bipolar I**  

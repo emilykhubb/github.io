@@ -1,7 +1,10 @@
 # UK Property Resales & Price Growth Dashboard (Tableau + R)
 
 ## Overview
-Interactive Tableau dashboard analyzing quick resales (≤2 years and ≤5 years) and first-to-last sale price change across UK postcode areas. Data was cleaned and feature-engineered in R, then visualized in Tableau for non-technical audiences.
+
+Using UK property sales data, this project explores where quick resales are most common and how property values change from first to last recorded sale. Data was cleaned and transformed in R to define resale windows (≤2 and ≤5 years) and compute long-term price change metrics.
+
+The final deliverable is an interactive Tableau dashboard designed for everyday viewers, supported by a plain-language Notion write-up and documented methodology for reproducibility.
 
 ## Links
 - Tableau Public Dashboard: <https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>

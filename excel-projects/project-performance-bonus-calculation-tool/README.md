@@ -41,7 +41,7 @@ This tab captures project-level inputs and automatically calculates performance 
 - Hours (total labor hours)
 - Profit ($)
 - Target Profit ($)
-- Target Efficiency (USD/hour)
+- Target Efficiency ($/hour)
 
 ---
 

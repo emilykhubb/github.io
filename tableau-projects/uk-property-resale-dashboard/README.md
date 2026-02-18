@@ -4,7 +4,7 @@
 Interactive Tableau dashboard analyzing quick resales (≤2 years and ≤5 years) and first-to-last sale price change across UK postcode areas. Data was cleaned and feature-engineered in R, then visualized in Tableau for non-technical audiences.
 
 ## Links
-- Tableau Public Dashboard: (add link)
+- Tableau Public Dashboard: <https://public.tableau.com/views/Tableau_Visuals_Q3/ResaleDynamicsandShort-TermAppreciationPatternsinUKHousingMarkets?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
 - GitHub Project Folder: (this folder)
 
 ## What’s Included

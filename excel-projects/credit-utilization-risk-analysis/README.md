@@ -1,12 +1,26 @@
 # Credit Utilization Risk Analysis (Excel)
 
 ## Overview
-This project analyzes customer credit utilization patterns to identify high-risk segments and support data-driven credit risk decision-making. The analysis was conducted entirely in Excel, with a focus on transforming raw account-level data into clear, actionable insights for business stakeholders.
+
+This Excel-based analysis evaluates customer credit utilization patterns to identify high-risk segments and support data-driven credit risk decision-making. The project transforms raw account-level data into structured risk indicators and executive-ready visualizations.
+
+The focus of this analysis is not just calculation, but segmentation, interpretation, and business insight generation.
+
+---
+
+## Links
+
+- **Excel Workbook:**  
+  `Credit_Utilization_Risk_Analysis.xlsx`
+
+- **PDF Report:**  
+  `Credit_Utilization_Risk_Analysis_Report.pdf`
 
 ---
 
 ## Data
-- Records: 10,000+ customer accounts
+
+- 10,000+ customer accounts
 - Key variables:
   - Credit limit
   - Current balance
@@ -17,35 +31,51 @@ This project analyzes customer credit utilization patterns to identify high-risk
 
 ---
 
-## Methods
-- Data cleaning and validation using Excel formulas
-- Feature engineering:
-  - Credit utilization ratios
-  - Utilization bands
-  - Risk flags
-- Pivot tables and pivot charts for segmentation analysis
-- Correlation analysis to assess the relationship between credit limits and utilization behavior
-- Executive-style visualizations to highlight risk concentration and customer scale
+## Analytical Approach
+
+### Data Preparation
+- Data validation and cleaning using Excel formulas
+- Calculation of credit utilization ratios
+- Creation of utilization bands for risk segmentation
+- Development of risk flags to identify high-exposure accounts
+
+### Segmentation & Analysis
+- Pivot tables and pivot charts to analyze utilization by:
+  - Income
+  - Age
+  - Credit limit tier
+- Correlation analysis between credit limit and utilization behavior (r ≈ −0.48)
+- Identification of concentration risk across customer segments
+
+### Visualization
+- Executive-style dashboards designed for non-technical stakeholders
+- Clear highlighting of high-risk customer groups and scale impact
 
 ---
 
 ## Key Findings
+
 - High utilization rates are concentrated among customers with lower credit limits
 - Younger and lower-income customers exhibit higher average utilization
 - Credit utilization and credit limit show a moderate negative correlation (r ≈ −0.48)
-- A small subset of customers accounts for a disproportionate share of high utilization risk
+- A relatively small subset of customers accounts for a disproportionate share of high utilization exposure
 
 ---
 
 ## Skills Demonstrated
-- Advanced Excel formulas
-- Pivot tables and pivot charts
-- Data cleaning and feature engineering
-- Segmentation and risk analysis
-- Business-focused data visualization
-- Translating data into actionable insights
+
+- Advanced Excel modeling
+- Pivot tables and dynamic segmentation
+- Feature engineering within Excel
+- Risk flag logic construction
+- Correlation analysis
+- Executive-level data storytelling
 
 ---
 
-## Files
-- `Credit_Utilization_Risk_Analysis.xlsx` – Full Excel workbook containing analysis and dashboards
+## Design Principles
+
+- Clear separation between raw data, calculations, and dashboards
+- Structured segmentation logic for repeatable analysis
+- Business-oriented interpretation over purely statistical output
+- Designed for decision support, not just reporting

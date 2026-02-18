@@ -42,7 +42,7 @@ The model separates inputs from calculated outputs and allows leadership to modi
 - [Data Dictionary](./docs/data_dictionary.md)
 - [How to Use](./docs/how_to_use.md)
 - [Boss Evaluation Rubric](./docs/boss_rubric.md)
-- Preview:
+- Screenshots:
 <p align="center">
   <img src="./screenshots/bonus-tool-preview1.png" alt="Bonus Tool Preview Part 1" width="1000">
 </p>

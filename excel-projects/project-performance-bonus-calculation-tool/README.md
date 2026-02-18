@@ -29,7 +29,7 @@ This tab captures project-level inputs and automatically calculates performance 
 - Designer
 
 #### Subjective Inputs (1–5 Scale)
-- Customer Average (optional)
+- Customer Satisfaction Average (optional)
 - Boss Q1 – Communication
 - Boss Q2 – Design Quality
 - Boss Q3 – Organization
